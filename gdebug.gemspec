@@ -21,10 +21,12 @@ Gem::Specification.new do |s|
   s.files = [
     ".document",
     "Gemfile",
+    "Gemfile.lock",
     "LICENSE.txt",
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "gdebug.gemspec",
     "lib/gdebug.rb"
   ]
   s.homepage = "http://github.com/antpaw/gdebug"

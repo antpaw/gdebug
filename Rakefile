@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "gdebug"
   gem.homepage = "http://github.com/antpaw/gdebug"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{debug it}
+  gem.description = %Q{debug with exceptions (because it's fast)}
   gem.email = "anton.pawlik@gmail.com"
   gem.authors = ["Anton Pawlik"]
   # dependencies defined in Gemfile

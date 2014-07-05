@@ -1,6 +1,6 @@
 # gdebug
 
-Provides a `d(var)` mehtod, which is basically a shortcut to `raise var.inspect`.
+Provides a `d(var)` method, which is basically a shortcut for `raise var.inspect`.
 
 ```ruby
 group :development do
